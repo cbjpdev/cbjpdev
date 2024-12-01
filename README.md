@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @cbjpdev
-- 👀 I’m interested in Algorithms 
+- 👋 Hi, I’m Chathuranga Pathirana (@cbjpdev)
+- 👀 I’m interested in Algorithms and Cryptography
+- 👀 I’m skilled at building highly scalable, geo-distributed systems using .NET and Kubernetes (EKS, GKE, and k9s are my favorites).
+- 👀 Contributor - https://stackoverflow.com/users/827918/cdev
+- 👀 Blogger(sometimes) - https://beyondtechs.blogspot.com
+  
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
